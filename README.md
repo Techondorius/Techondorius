@@ -4,7 +4,7 @@ Amazing...
 
 - [TIL](https://github.com/Techondorius/Today_I_learned)
 - [ハッカソンにて開発したAPIサーバー](https://github.com/Techondorius/team22_server)
-- [はじめてのAPIサーバー](https://github.com/Techondorius/smallest_app_with_db)
+- [DockerとGoで打刻APIを作った](https://github.com/Techondorius/go_practiceapp)
 
 # 技術スタック
 ## バックエンド
