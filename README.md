@@ -12,11 +12,11 @@ Amazing...
 - FastAPI(Python)
 - Docker
 - Heroku
-- Gin(Go)(勉強中)
-- MySQL(勉強中)
-
+- Gin(Go)
+- MySQL
 
 ## 今後勉強していきたいこと
+- Frontend(React)
 - AWS
 - Rails
 
