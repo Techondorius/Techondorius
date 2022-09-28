@@ -4,7 +4,7 @@ Amazing...
 
 - [TIL](https://github.com/Techondorius/Today_I_learned)
 - [ハッカソンにて開発したAPIサーバー](https://github.com/Techondorius/team22_server)
-- [現在制作中のポーカーのチップ移動を計算するWebアプリケーション](https://github.com/tokyo_azisai_paradice/poker_mahjong_calculator)
+- [現在制作中のポーカーのチップ移動を計算するWebアプリケーション](https://github.com/tokyo-azisai-paradice/poker-mahjong-calculator)
 
 # 技術スタック
 ## バックエンド
