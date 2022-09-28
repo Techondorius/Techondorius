@@ -4,7 +4,7 @@ Amazing...
 
 - [TIL](https://github.com/Techondorius/Today_I_learned)
 - [ハッカソンにて開発したAPIサーバー](https://github.com/Techondorius/team22_server)
-- [DockerとGoで打刻APIを作った](https://github.com/Techondorius/go_practiceapp)
+- [現在制作中のポーカーのチップ移動を計算するWebアプリケーション](https://github.com/tokyo_azisai_paradice/poker_mahjong_calculator)
 
 # 技術スタック
 ## バックエンド
@@ -17,7 +17,7 @@ Amazing...
 
 ## 今後勉強していきたいこと
 - Frontend(React)
-- AWS
+- Azure
 - Rails
 
 
