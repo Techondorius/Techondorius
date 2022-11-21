@@ -4,7 +4,8 @@ Amazing...
 
 - [TIL](https://github.com/Techondorius/Today_I_learned)
 - [ハッカソンにて開発したAPIサーバー](https://github.com/Techondorius/team22_server)
-- [JPHACKSに出場しているアプリケーション](https://github.com/tokyo-azisai-paradise/poker-mahjong-calculation)
+- [JPHACKSに出場していたアプリケーション](https://github.com/tokyo-azisai-paradise/poker-mahjong-calculation)
+  - オンライン発表を突破し、AwardDay(オフライン大会)進出できました！
 
 # 技術スタック
 ## バックエンド
